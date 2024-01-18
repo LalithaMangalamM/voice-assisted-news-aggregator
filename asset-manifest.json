@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/voice-assisted-news-aggregator/static/css/main.c1ad1f54.css",
+    "main.js": "/voice-assisted-news-aggregator/static/js/main.1c328ad0.js",
+    "static/media/bggg.jpg": "/voice-assisted-news-aggregator/static/media/bggg.3198cf73aa1d9070c917.jpg",
+    "index.html": "/voice-assisted-news-aggregator/index.html",
+    "main.c1ad1f54.css.map": "/voice-assisted-news-aggregator/static/css/main.c1ad1f54.css.map",
+    "main.1c328ad0.js.map": "/voice-assisted-news-aggregator/static/js/main.1c328ad0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1ad1f54.css",
+    "static/js/main.1c328ad0.js"
+  ]
+}
